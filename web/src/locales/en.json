@@ -344,7 +344,7 @@
     "day_other": "TAGE"
   },
   "message": {
-    "no-data": "Maybe no data was found, maybe it should be another option.",
+    "no-data": "Archived memos not found.",
     "memos-ready": "all memos are ready 🎉",
     "resource-ready": "all resource are ready 🎉",
     "restored-successfully": "Restored successfully",
